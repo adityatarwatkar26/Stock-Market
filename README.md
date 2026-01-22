@@ -1,5 +1,5 @@
 # Stock_Market_Tableau_Mini_Project
-![pexels-gabby-k-5849572](https://github.com/user-attachments/assets/6a4c2250-84e2-457c-912c-63bf8af22042)
+![pexels-stockradars-co-1851828201-28682349 (1)](https://github.com/user-attachments/assets/54f05c10-a383-4e2a-b215-75ccacf626ce)
 
 # Stock Market
 
